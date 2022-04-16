@@ -1,2 +1,2 @@
 # Dev-ops
-Learning the devops
+Learning the dev-ops.
